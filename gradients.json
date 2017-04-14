@@ -933,5 +933,9 @@
     {
         "name": "Scooter",
         "colors": ["#36D1DC", "#5B86E5"]
+    },
+    {
+      "name": "RC",
+      "colors": ["#25378d", "#ffde16"]
     }
 ]
